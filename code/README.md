@@ -1,24 +1,16 @@
 # Arduino Code Setup 💻
 
-This guide provides step-by-step instructions for setting up and uploading the Arduino code for the ESP8266 LED Interfacing project, including integration with the Blynk app for Wi-Fi control.
+This guide provides step-by-step instructions for setting up and uploading the Arduino code for the ESP8266 Water Level Depth Detection System, including integration with the Blynk app for Wi-Fi control.
 
 ## Step 1: Install Arduino Software
 
 1. **Download Arduino IDE**
 
-   ![Download Arduino IDE](../image/arduino_download.png)
-
 2. **Install Arduino IDE**
-
-   ![Install Arduino IDE](../image/arduino_install.png)
 
 3. **Launch Arduino IDE**
 
-   ![Launch Arduino IDE](../image/arduino_launch.png)
-
 4. **Open Arduino IDE Preferences**
-
-   ![Open Arduino IDE Preferences](../image/arduino_preferences.png)
 
 ## Step 2: Add ESP8266 Board to Arduino IDE
 
@@ -50,9 +42,9 @@ This guide provides step-by-step instructions for setting up and uploading the A
 
 ## Step 5: Open and Upload Code
 
-1. Open the Arduino code file (`LED_Interfacing.ino`) in the Arduino IDE.
+1. Open the Arduino code file (`Water_Level_Depth_Detection.ino`) in the Arduino IDE.
 
-2. Configure the code to include the Blynk library and Wi-Fi credentials.
+2. Configure the code to include the Blynk library, Wi-Fi credentials, and settings for the water level depth detection sensor.
 
 3. Verify and compile the code by clicking the checkmark icon (Verify) in the upper left corner of the Arduino IDE.
 
@@ -100,8 +92,8 @@ This guide provides step-by-step instructions for setting up and uploading the A
 
 ### Upload Code
 
-![Upload Code](../image/sc3.png)
+![Upload Code](../image/sc2.png)
 
 ### Final Output
 
-![Final Output](../image/sc4.png)
+![Final Output](../image/sc3.png)

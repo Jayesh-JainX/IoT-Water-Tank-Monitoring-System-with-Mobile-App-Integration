@@ -221,8 +221,8 @@ Blynk is a platform that allows you to build IoT applications easily. Follow the
 <br><br>
 
 <div style="margin-top: 20px; border: 2px solid white; padding: 10px;">
-  <img src="./image/image4.png" alt="Mobile Screenshot 3" width="400" style="float: left; margin-right: 20px;">
-  <img src="./image/image3.png" alt="Mobile Screenshot 4" width="400" style="float: right; margin-left: 20px;">
+  <img src="./image/image3.png" alt="Mobile Screenshot 3" width="400" style="float: left; margin-right: 20px;">
+  <img src="./image/image4.png" alt="Mobile Screenshot 4" width="400" style="float: right; margin-left: 20px;">
 </div>
 
 <br><br>
